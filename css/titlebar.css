@@ -83,7 +83,7 @@
 .titlebar-resize:hover,
 .titlebar-fullscreen:hover
 {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.1) !important;
 }
 
 .titlebar-light .titlebar-minimize:hover,
